@@ -11161,6 +11161,124 @@ bytes = 1132
 sha256 = "fe65913fa9877af061aca9bdaaa6daadb1277f60eb98e47b27c026534e87c2d3"
 
 [[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "licence text"
+bytes = 1500
+sha256 = "5fac07febb0e2a97fb0d7b0def149ec08b642e1ba4b9c345283ab1cbd2af6570"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/module/dynamic-import/inline-event-handler.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/module/dynamic-import/inline-event-handler.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 653
+sha256 = "89c7b9c7034980c574269f89eeab1d5eb1aaba50fe6f9eb4de6fb3f5eeaa1fa2"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/script-noembed-noframes-iframe.xhtml"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/script-noembed-noframes-iframe.xhtml"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 693
+sha256 = "e6e83d07f87cc741aab88beb196ef8bd9509ce4b4d86e9d37d0761431d7c8dec"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/script-type-and-language-js-xhtml.xhtml"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/semantics/scripting-1/the-script-element/script-type-and-language-js-xhtml.xhtml"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 2039
+sha256 = "6aa1d589cc6e65067b275ebe70c5be5addb4e44b934c3185ddfd59b9c6775557"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Document.getElementsByTagName-foreign-01.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Document.getElementsByTagName-foreign-01.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 3159
+sha256 = "40135d7b06f4603779f5b16827e4c59bd57dea15d05ca713c19112863722cd31"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Document.getElementsByTagName-foreign-02.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Document.getElementsByTagName-foreign-02.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 1014
+sha256 = "b06e848b236dc821019e77c9128f808e732e231f1fed5a1d1267f84d1973a78b"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Element.getElementsByTagName-foreign-02.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/Element.getElementsByTagName-foreign-02.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 1113
+sha256 = "d0496464d4cc2553e0e6ecbcdf43af4197195922085f93a80055831346c86307"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/html-integration-point.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/html-integration-point.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 1709
+sha256 = "b0fdc9d04529e073f50b535e2293c49b3c8af039c22874f0364e025bf2c521cf"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/math-parse01.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/math-parse01.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 2175
+sha256 = "79efe260f7d2c5a3caf77d8b690628738d42fa08edfd64835e450f7960d58158"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/unclosed-svg-script.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/html/syntax/parsing/unclosed-svg-script.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 1339
+sha256 = "6086e383c9895c66a51fa14c223d1c3919f240d51cb12b058595dc4054d8094d"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/svg/painting/text-clip-path-transform.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/svg/painting/text-clip-path-transform.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 923
+sha256 = "63da12ce39a5bf1fe1971dba94893f2568c59656f8d263707894bd35cebdc2b1"
+
+[[file]]
+path = "web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/svg/struct/scripted/element.html"
+source = "https://raw.githubusercontent.com/web-platform-tests/wpt/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/svg/struct/scripted/element.html"
+commit = "de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0"
+purpose = "input"
+licence = "BSD-3-Clause"
+licence_sources = ["https://github.com/web-platform-tests/wpt/blob/de15fbf9d7e83a7d0bc66e2b9231a7b059496ca0/LICENSE.md"]
+bytes = 2995
+sha256 = "ae1e25422fa81694810ac587b97f62ac05c798d876ec3bae52b30048cc3a8c2c"
+
+[[file]]
 path = "withastro/astro/ff1e2fb2f908d637e6b60a293c26db552c88f562/LICENSE"
 source = "https://raw.githubusercontent.com/withastro/astro/ff1e2fb2f908d637e6b60a293c26db552c88f562/LICENSE"
 commit = "ff1e2fb2f908d637e6b60a293c26db552c88f562"
