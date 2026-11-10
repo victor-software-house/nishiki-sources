@@ -11,6 +11,8 @@ Read [README.md](README.md) for what the repository holds and how it is laid out
 2. **Append only.**
    - A file, once added, is never rewritten: its path names its commit, so its bytes never change.
    - A file leaves only when nishiki no longer pins it, and only with the operator's approval.
+   - A pull request merges with a merge commit, never a squash or a rebase.  
+     nishiki pins a fill commit by its SHA, which must stay on `main`.
 3. **Every file has a row.**  
    `manifest.toml` lists each file with its source, licence, size and SHA-256.  
    `bun run oracle/sources.ts check <this checkout>` fails on a missing file, a changed file or a file with no row.
